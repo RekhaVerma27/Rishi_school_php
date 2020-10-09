@@ -1,0 +1,5 @@
+<td>
+						<a class="red" href="delete_mark.php?deleteid=<?php echo $rr['id']; ?>"><i class="icon-trash bigger-130"></i></a>
+						&nbsp;&nbsp;
+						<a href="upload/<?php echo $rr['result']; ?>">View File</a>
+							 </td>
